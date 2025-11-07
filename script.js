@@ -489,7 +489,7 @@ document.addEventListener('DOMContentLoaded', function() {
             if (instructionText) {
                 const smallText = instructionText.querySelector('.small-text');
                 if (smallText) {
-                    smallText.textContent = '轻触屏幕观看烟花✨';
+                    smallText.textContent = '轻点屏幕有烟花喔宝宝！✨';
                 }
             }
         } else {
